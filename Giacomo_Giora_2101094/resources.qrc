@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Immagini/SfondoLogin.jpg</file>
+        <file>Immagini/icon1.png</file>
+        <file>Immagini/LogoLibro1.png</file>
+        <file>Immagini/LogoFilm1.png</file>
+        <file>Immagini/LogoGioco1.png</file>
+        <file>Immagini/LogoRivista1.png</file>
+        <file>Immagini/LogoVinile1.png</file>
+        <file>Immagini/BottoneCestino.png</file>
+        <file>Immagini/BottoneMatita.png</file>
+    </qresource>
+</RCC>

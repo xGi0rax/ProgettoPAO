@@ -1,0 +1,164 @@
+<biblioteca>
+    <media tipo="vinile" id="VC-21" titolo="Nevermind" autore="Nirvana" genere="Alternative" anno="1991" lingua="Inglese" immagine="nevermind.jpg" disponibilita="1" numero_copie="3" in_prestito="1" collocazione="Sezione V1" rating="4.9" durata="42" numero_tracce="12"/>
+    
+    <media tipo="libro" id="VC-2" titolo="Steve Jobs" autore="Walter Isaacson" genere="Biografia" anno="2011" lingua="Italiano" immagine="steve_jobs.jpg" disponibilita="1" numero_copie="5" in_prestito="2" collocazione="Scaffale B1" rating="4.6" isbn="978-8804619352" editore="Mondadori" numero_pagine="668"/>
+    
+    <media tipo="gioco" id="VC-45" titolo="Pandemic" autore="Matt Leacock" genere="Cooperativo" anno="2008" lingua="Inglese" immagine="pandemic.jpg" disponibilita="1" numero_copie="4" in_prestito="1" collocazione="Sezione G2" rating="4.7" eta_minima="12" numero_giocatori="4" durata="45" editore="Z-Man Games"/>
+    
+    <media tipo="film" id="VC-10" titolo="Frozen - Il regno di ghiaccio" autore="Chris Buck, Jennifer Lee" genere="Animazione" anno="2013" lingua="Francese" immagine="frozen.jpg" disponibilita="1" numero_copie="6" in_prestito="2" collocazione="Sezione A1" rating="4.6" durata="102">
+        <cast>
+            <attore>Idina Menzel</attore>
+            <attore>Kristen Bell</attore>
+            <attore>Jonathan Groff</attore>
+        </cast>
+    </media>
+    
+    <media tipo="rivista" id="VC-32" titolo="Time" autore="Nancy Gibbs" genere="Attualità" anno="2023" lingua="Inglese" immagine="time.jpg" disponibilita="1" numero_copie="10" in_prestito="2" collocazione="Sezione R1" rating="4.5" numero_pagine="68" data_pubblicazione="15-04-2023" periodicita="Settimanale" editore="Time USA, LLC"/>
+    
+    <media tipo="vinile" id="VC-22" titolo="Kind of Blue" autore="Miles Davis" genere="Blues" anno="1959" lingua="Inglese" immagine="kind_of_blue.jpg" disponibilita="1" numero_copie="4" in_prestito="1" collocazione="Sezione V2" rating="4.9" durata="45" numero_tracce="5"/>
+    
+    <media tipo="libro" id="VC-3" titolo="Harry Potter e la pietra filosofale" autore="J.K. Rowling" genere="Fantasy" anno="1997" lingua="Inglese" immagine="harry_potter_1.jpg" disponibilita="1" numero_copie="8" in_prestito="3" collocazione="Scaffale C1" rating="4.8" isbn="978-8831003384" editore="Salani" numero_pagine="302"/>
+    
+    <media tipo="film" id="VC-11" titolo="Die Hard - Trappola di cristallo" autore="John McTiernan" genere="Azione" anno="1988" lingua="Italiano" immagine="die_hard.jpg" disponibilita="1" numero_copie="4" in_prestito="0" collocazione="Sezione A2" rating="4.7" durata="132">
+        <cast>
+            <attore>Giacomo Giora</attore>
+            <attore>Giacomo Nalotto</attore>
+            <attore>Franceso Ranzato</attore>
+            <attore>Marco Zanella</attore>
+        </cast>
+    </media>
+    
+    <media tipo="gioco" id="VC-44" titolo="Go" autore="Imperatore Yao" genere="Altro" anno="1996" lingua="Italiano" immagine="go.jpg" disponibilita="1" numero_copie="3" in_prestito="0" collocazione="Sezione G1" rating="4.9" eta_minima="8" numero_giocatori="2" durata="60" editore="Korea Baduk Association"/>
+    
+    <media tipo="rivista" id="VC-33" titolo="Artforum" autore="David Velasco" genere="Arte" anno="2023" lingua="Inglese" immagine="artforum.jpg" disponibilita="1" numero_copie="5" in_prestito="1" collocazione="Sezione R2" rating="4.6" numero_pagine="220" data_pubblicazione="01-03-2023" periodicita="Mensile" editore="Artforum International Magazine"/>
+    
+    <media tipo="vinile" id="VC-23" titolo="Le quattro stagioni" autore="Antonio Vivaldi" genere="Classica" anno="1970" lingua="Italiano" immagine="quattro_stagioni.jpg" disponibilita="1" numero_copie="3" in_prestito="0" collocazione="Sezione V3" rating="4.8" durata="40" numero_tracce="4"/>
+    
+    <media tipo="libro" id="VC-4" titolo="Assassinio sull'Orient Express" autore="Agatha Christie" genere="Giallo" anno="1934" lingua="Francese" immagine="orient_express.jpg" disponibilita="1" numero_copie="6" in_prestito="2" collocazione="Scaffale D1" rating="4.7" isbn="978-8804671725" editore="Mondadori" numero_pagine="240"/>
+    
+    <media tipo="film" id="VC-12" titolo="Indiana Jones e i Predatori dell'Arca Perduta" autore="Steven Spielberg" genere="Avventura" anno="1981" lingua="Inglese" immagine="indiana_jones.jpg" disponibilita="1" numero_copie="5" in_prestito="1" collocazione="Sezione A3" rating="4.8" durata="115">
+        <cast>
+            <attore>Harrison Ford</attore>
+            <attore>Karen Allen</attore>
+            <attore>Paul Freeman</attore>
+        </cast>
+    </media>
+    
+    <media tipo="gioco" id="VC-46" titolo="Magic: The Gathering" autore="Richard Garfield" genere="Carte" anno="1993" lingua="Inglese" immagine="magic.jpg" disponibilita="1" numero_copie="5" in_prestito="2" collocazione="Sezione G3" rating="4.8" eta_minima="13" numero_giocatori="2" durata="30" editore="Wizards of the Coast"/>
+    
+    <media tipo="rivista" id="VC-34" titolo="La Cucina Italiana" autore="Marco Bianchi" genere="Cucina" anno="2023" lingua="Italiano" immagine="cucina_italiana.jpg" disponibilita="1" numero_copie="8" in_prestito="3" collocazione="Sezione R3" rating="4.7" numero_pagine="120" data_pubblicazione="01-04-2023" periodicita="Mensile" editore="Condé Nast"/>
+    
+    <media tipo="vinile" id="VC-24" titolo="Ring of Fire" autore="Johnny Cash" genere="Country" anno="1963" lingua="Inglese" immagine="ring_of_fire.jpg" disponibilita="1" numero_copie="2" in_prestito="0" collocazione="Sezione V4" rating="4.6" durata="35" numero_tracce="12"/>
+    
+    <media tipo="libro" id="VC-5" titolo="It" autore="Stephen King" genere="Horror" anno="1986" lingua="Inglese" immagine="it.jpg" disponibilita="1" numero_copie="4" in_prestito="1" collocazione="Scaffale E1" rating="4.6" isbn="978-8820062392" editore="Sperling &amp; Kupfer" numero_pagine="1216"/>
+    
+    <media tipo="film" id="VC-13" titolo="Pretty Woman" autore="Garry Marshall" genere="Commedia" anno="1990" lingua="Francese" immagine="pretty_woman.jpg" disponibilita="1" numero_copie="5" in_prestito="2" collocazione="Sezione A4" rating="4.5" durata="119">
+        <cast>
+            <attore>Richard Gere</attore>
+            <attore>Julia Roberts</attore>
+            <attore>Ralph Bellamy</attore>
+        </cast>
+    </media>
+    
+    <media tipo="vinile" id="VC-25" titolo="Random Access Memories" autore="Daft Punk" genere="Elettronica" anno="2013" lingua="Francese" immagine="random_access_memories.jpg" disponibilita="1" numero_copie="3" in_prestito="1" collocazione="Sezione V5" rating="4.7" durata="74" numero_tracce="13"/>
+    
+    <media tipo="rivista" id="VC-35" titolo="The New Yorker" autore="David Remnick" genere="Cultura" anno="2023" lingua="Inglese" immagine="new_yorker.jpg" disponibilita="1" numero_copie="7" in_prestito="2" collocazione="Sezione R4" rating="4.8" numero_pagine="80" data_pubblicazione="10-04-2023" periodicita="Settimanale" editore="Condé Nast"/>
+    
+    <media tipo="libro" id="VC-7" titolo="I pilastri della Terra" autore="Ken Follett" genere="Storico" anno="1989" lingua="Italiano" immagine="pilastri_terra.jpg" disponibilita="1" numero_copie="5" in_prestito="2" collocazione="Scaffale G1" rating="4.8" isbn="978-8804668732" editore="Mondadori" numero_pagine="1030"/>
+    
+    <media tipo="film" id="VC-14" titolo="La marcia dei pinguini" autore="Luc Jacquet" genere="Documentario" anno="2005" lingua="Francese" immagine="marcia_pinguini.jpg" disponibilita="1" numero_copie="3" in_prestito="0" collocazione="Sezione B1" rating="4.6" durata="85">
+        <cast>
+            <attore>Charles Berling</attore>
+            <attore>Romane Bohringer</attore>
+            <attore>Jules Sitruk</attore>
+        </cast>
+    </media>
+    
+    <media tipo="gioco" id="VC-48" titolo="Catan" autore="Klaus Teuber" genere="Strategia" anno="1995" lingua="Tedesco" immagine="catan.jpg" disponibilita="1" numero_copie="6" in_prestito="2" collocazione="Sezione G5" rating="4.7" eta_minima="10" numero_giocatori="4" durata="60" editore="Kosmos"/>
+    
+    <media tipo="vinile" id="VC-26" titolo="Woodstock" autore="Joni Mitchell" genere="Folk" anno="1970" lingua="Inglese" immagine="woodstock.jpg" disponibilita="1" numero_copie="2" in_prestito="0" collocazione="Sezione V6" rating="4.5" durata="45" numero_tracce="10"/>
+    
+    <media tipo="libro" id="VC-8" titolo="Sapiens: Da animali a dèi" autore="Yuval Noah Harari" genere="Saggistica" anno="2011" lingua="Inglese" immagine="sapiens.jpg" disponibilita="1" numero_copie="7" in_prestito="4" collocazione="Scaffale H1" rating="4.8" isbn="978-8845282874" editore="Bompiani" numero_pagine="536"/>
+    
+    <media tipo="rivista" id="VC-36" titolo="The Economist" autore="Zanny Minton Beddoes" genere="Economia" anno="2023" lingua="Inglese" immagine="economist.jpg" disponibilita="1" numero_copie="8" in_prestito="4" collocazione="Sezione R5" rating="4.7" numero_pagine="90" data_pubblicazione="18-04-2023" periodicita="Settimanale" editore="The Economist Group"/>
+    
+    <media tipo="film" id="VC-15" titolo="Il padrino" autore="Francis Ford Coppola" genere="Drammatico" anno="1972" lingua="Italiano" immagine="padrino.jpg" disponibilita="1" numero_copie="6" in_prestito="1" collocazione="Sezione B2" rating="4.9" durata="175">
+        <cast>
+            <attore>Marlon Brando</attore>
+            <attore>Al Pacino</attore>
+            <attore>James Caan</attore>
+        </cast>
+    </media>
+    
+    <media tipo="vinile" id="VC-27" titolo="The Chronic" autore="Dr. Dre" genere="Hip Hop" anno="1992" lingua="Inglese" immagine="chronic.jpg" disponibilita="1" numero_copie="3" in_prestito="1" collocazione="Sezione V7" rating="4.7" durata="62" numero_tracce="16"/>
+    
+    <media tipo="libro" id="VC-9" titolo="Il silenzio degli innocenti" autore="Thomas Harris" genere="Thriller" anno="1988" lingua="Italiano" immagine="silenzio_innocenti.jpg" disponibilita="1" numero_copie="6" in_prestito="1" collocazione="Scaffale I1" rating="4.7" isbn="978-8804668084" editore="Mondadori" numero_pagine="372"/>
+    
+    <media tipo="film" id="VC-16" titolo="Il Signore degli Anelli: La Compagnia dell'Anello" autore="Peter Jackson" genere="Fantasy" anno="2001" lingua="Inglese" immagine="lotr_fellowship.jpg" disponibilita="1" numero_copie="7" in_prestito="2" collocazione="Sezione B3" rating="4.9" durata="178">
+        <cast>
+            <attore>Elijah Wood</attore>
+            <attore>Ian McKellen</attore>
+            <attore>Viggo Mortensen</attore>
+        </cast>
+    </media>
+    
+    <media tipo="rivista" id="VC-37" titolo="Vanity Fair" autore="Simone Marchetti" genere="Intrattenimento" anno="2023" lingua="Italiano" immagine="vanity_fair.jpg" disponibilita="1" numero_copie="12" in_prestito="5" collocazione="Sezione R6" rating="4.4" numero_pagine="150" data_pubblicazione="05-04-2023" periodicita="Mensile" editore="Condé Nast"/>
+    
+    <media tipo="vinile" id="VC-28" titolo="A Love Supreme" autore="John Coltrane" genere="Jazz" anno="1965" lingua="Inglese" immagine="love_supreme.jpg" disponibilita="1" numero_copie="2" in_prestito="0" collocazione="Sezione V8" rating="4.9" durata="33" numero_tracce="4"/>
+    
+    <media tipo="gioco" id="VC-49" titolo="Dungeons &amp; Dragons" autore="Gary Gygax, Dave Arneson" genere="Fantasy" anno="1974" lingua="Inglese" immagine="dnd.jpg" disponibilita="1" numero_copie="4" in_prestito="1" collocazione="Sezione G6" rating="4.9" eta_minima="12" numero_giocatori="5" durata="180" editore="Wizards of the Coast"/>
+    
+    <media tipo="film" id="VC-17" titolo="Shining" autore="Stanley Kubrick" genere="Horror" anno="1980" lingua="Inglese" immagine="shining_film.jpg" disponibilita="1" numero_copie="4" in_prestito="0" collocazione="Sezione B4" rating="4.7" durata="146">
+        <cast>
+            <attore>Jack Nicholson</attore>
+            <attore>Shelley Duvall</attore>
+            <attore>Danny Lloyd</attore>
+        </cast>
+    </media>
+    
+    <media tipo="rivista" id="VC-38" titolo="Vogue" autore="Francesca Ragazzi" genere="Moda" anno="2023" lingua="Francese" immagine="vogue.jpg" disponibilita="1" numero_copie="10" in_prestito="4" collocazione="Sezione R7" rating="4.6" numero_pagine="200" data_pubblicazione="01-04-2023" periodicita="Mensile" editore="Condé Nast"/>
+    
+    <media tipo="vinile" id="VC-29" titolo="Master of Puppets" autore="Metallica" genere="Metal" anno="1986" lingua="Inglese" immagine="master_puppets.jpg" disponibilita="1" numero_copie="4" in_prestito="1" collocazione="Sezione V9" rating="4.9" durata="55" numero_tracce="8"/>
+    
+    <media tipo="film" id="VC-18" titolo="Notting Hill" autore="Roger Michell" genere="Romantico" anno="1999" lingua="Inglese" immagine="notting_hill.jpg" disponibilita="1" numero_copie="5" in_prestito="2" collocazione="Sezione C1" rating="4.4" durata="124">
+        <cast>
+            <attore>Julia Roberts</attore>
+            <attore>Hugh Grant</attore>
+            <attore>Rhys Ifans</attore>
+        </cast>
+    </media>
+    
+    <media tipo="rivista" id="VC-39" titolo="Men's Health" autore="Bill Phillips" genere="Salute" anno="2023" lingua="Inglese" immagine="mens_health.jpg" disponibilita="1" numero_copie="8" in_prestito="3" collocazione="Sezione R8" rating="4.3" numero_pagine="110" data_pubblicazione="01-04-2023" periodicita="Mensile" editore="Hearst Communications"/>
+    
+    <media tipo="vinile" id="VC-30" titolo="Thriller" autore="Michael Jackson" genere="Pop" anno="1982" lingua="Inglese" immagine="thriller.jpg" disponibilita="1" numero_copie="5" in_prestito="2" collocazione="Sezione V10" rating="4.9" durata="42" numero_tracce="9"/>
+    
+    <media tipo="film" id="VC-19" titolo="Blade Runner" autore="Ridley Scott" genere="Fantascienza" anno="1982" lingua="Inglese" immagine="blade_runner.jpg" disponibilita="1" numero_copie="4" in_prestito="1" collocazione="Sezione C2" rating="4.8" durata="117">
+        <cast>
+            <attore>Harrison Ford</attore>
+            <attore>Rutger Hauer</attore>
+            <attore>Sean Young</attore>
+        </cast>
+    </media>
+    
+    <media tipo="rivista" id="VC-40" titolo="Scientific American" autore="Laura Helmuth" genere="Scienza" anno="2023" lingua="Inglese" immagine="scientific_american.jpg" disponibilita="1" numero_copie="6" in_prestito="2" collocazione="Sezione R9" rating="4.8" numero_pagine="100" data_pubblicazione="01-04-2023" periodicita="Mensile" editore="Springer Nature"/>
+    
+    <media tipo="vinile" id="VC-31" titolo="Abbey Road" autore="The Beatles" genere="Rock" anno="1969" lingua="Inglese" immagine="abbey_road.jpg" disponibilita="1" numero_copie="6" in_prestito="1" collocazione="Sezione V11" rating="4.9" durata="47" numero_tracce="17"/>
+    
+    <media tipo="film" id="VC-20" titolo="Il silenzio degli innocenti" autore="Jonathan Demme" genere="Thriller" anno="1991" lingua="Italiano" immagine="silenzio_innocenti_film.jpg" disponibilita="1" numero_copie="5" in_prestito="1" collocazione="Sezione C3" rating="4.8" durata="118">
+        <cast>
+            <attore>Anthony Hopkins</attore>
+            <attore>Jodie Foster</attore>
+            <attore>Scott Glenn</attore>
+        </cast>
+    </media>
+    
+    <media tipo="rivista" id="VC-41" titolo="La Gazzetta dello Sport" autore="Stefano Barigelli" genere="Sport" anno="2023" lingua="Italiano" immagine="gazzetta_sport.jpg" disponibilita="1" numero_copie="15" in_prestito="5" collocazione="Sezione R10" rating="4.5" numero_pagine="40" data_pubblicazione="20-04-2023" periodicita="Quotidiana" editore="RCS MediaGroup"/>
+    
+    <media tipo="libro" id="VC-6" titolo="Orgoglio e pregiudizio" autore="Jane Austen" genere="Romanzo" anno="1813" lingua="Inglese" immagine="orgoglio_pregiudizio.jpg" disponibilita="1" numero_copie="6" in_prestito="2" collocazione="Scaffale F1" rating="4.7" isbn="978-8854172166" editore="Newton Compton" numero_pagine="320"/>
+    
+    <media tipo="rivista" id="VC-42" titolo="Wired" autore="Massimo Russo" genere="Tecnologia" anno="2023" lingua="Italiano" immagine="wired.jpg" disponibilita="1" numero_copie="8" in_prestito="3" collocazione="Sezione R11" rating="4.7" numero_pagine="120" data_pubblicazione="01-04-2023" periodicita="Mensile" editore="Condé Nast"/>
+    
+    <media tipo="libro" id="VC-1" titolo="Il Conte di Montecristo" autore="Alexandre Dumas" genere="Avventura" anno="1844" lingua="Francese" immagine="conte_montecristo.jpg" disponibilita="1" numero_copie="3" in_prestito="1" collocazione="Scaffale A2" rating="4.7" isbn="978-8804668565" editore="Mondadori" numero_pagine="1276"/>
+    
+    <media tipo="rivista" id="VC-43" titolo="National Geographic" autore="Susan Goldberg" genere="Viaggi" anno="2023" lingua="Inglese" immagine="national_geographic.jpg" disponibilita="1" numero_copie="10" in_prestito="4" collocazione="Sezione R12" rating="4.9" numero_pagine="150" data_pubblicazione="01-04-2023" periodicita="Mensile" editore="National Geographic Society"/>
+</biblioteca>
