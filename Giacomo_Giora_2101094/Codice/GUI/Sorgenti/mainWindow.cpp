@@ -1,4 +1,4 @@
-#include "../Headers/MainWindow.h"
+#include "../Headers/mainWindow.h"
 
 MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
     stackedWidget = new QStackedWidget(this);
